@@ -1,6 +1,11 @@
 JavaScript Shortcuts Library (jQuery plugin)
 ===
 
+Introduction
+---
+
+This jQuery plugin is aim to control all shortcut of a page. It is forked from [stepanvr/js-shortcuts](https://github.com/stepanvr/js-shortcuts). Even it is so useful, but it seems not to support jQuery >= 1.9. So I make some little changes, and provide a better solution.
+
 Usage
 ---
 
