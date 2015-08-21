@@ -3,6 +3,8 @@
  * http://www.stepanreznikov.com/js-shortcuts/
  * Copyright (c) 2010 Stepan Reznikov (stepan.reznikov@gmail.com)
  * Date: 2015-08-21
+ *
+ * 2015-08-21 xu xiaomeng (sekaiamber) (a3824036@126.com): support jQuery > 1.9.
  */
 
 /*global jQuery */
