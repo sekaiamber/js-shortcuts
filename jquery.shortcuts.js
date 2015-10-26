@@ -134,7 +134,7 @@
                     e.preventDefault();
                     isPrevented = true;
                 }
-                shortcut.handler(e); // Run the shortcut's handler.
+                shortcut.handler(e, shortcut); // Run the shortcut's handler.
             }
         });
     };
